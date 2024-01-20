@@ -20,30 +20,9 @@
       "allVideos": []
     },
     {
-      "id": "44",
-      "name": "abcd",
-      "allVideos": [
-        {
-          "id": "3",
-          "caption": "Raju",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Prithviraj_oil_paint_2019.jpg",
-          "url": "https:/www.youtube.com/embed/2LDJVzw2Orw"
-        }
-      ]
-    }
-  ],
-  "watchHistory": [
-    {
-      "id": "2",
-      "category": "srk",
-      "url": "https:/www.youtube.com/embed/VAdGW7QDJiU",
-      "date": "2023-12-17T14:50:49.780Z"
-    },
-    {
-      "id": "3",
-      "category": "Raju",
-      "url": "https:/www.youtube.com/embed/2LDJVzw2Orw",
-      "date": "2023-12-17T15:04:35.559Z"
+      "id": "10",
+      "categories": "",
+      "catagory": "kannnada"
     }
   ]
 }
